@@ -1,0 +1,43 @@
+* {
+	background-color: #6A5ACD;
+	margin: 0px;
+	padding: 0px;
+}
+
+.form-label {
+	color: white;
+	font-size: 30px;
+	margin-left: 550px;
+	
+}
+
+.form-text {
+	color: black;
+	text-align: center;
+}
+
+.form-control {
+	width: 800px;
+	margin: auto;
+
+}
+h1 {
+	text-align: center;
+	color: white;
+	font-weight: bold;
+}
+button {
+	position: fixed;
+	left: 700px;
+	
+
+}
+#exampleCheck1 {
+	position: fixed;
+	left: 700px;
+}
+.form-check-label {
+	position: fixed;
+	left: 700px;
+
+}
