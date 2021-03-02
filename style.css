@@ -7,18 +7,18 @@
 .form-label {
 	color: white;
 	font-size: 30px;
-	margin-left: 550px;
+	
 	
 }
 
 .form-text {
 	color: black;
-	text-align: center;
+	
 }
 
 .form-control {
 	width: 800px;
-	margin: auto;
+	
 
 }
 h1 {
@@ -26,18 +26,19 @@ h1 {
 	color: white;
 	font-weight: bold;
 }
-button {
-	position: fixed;
-	left: 600px;
-	
 
+.main {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+button {
+	margin-left: 350px;
 }
 #exampleCheck1 {
-	position: fixed;
-	left: 600px;
+	margin-left: 300px;
+
 }
 .form-check-label {
-	position: fixed;
-	left: 600px;
-
+	margin-left: 20px;
 }
